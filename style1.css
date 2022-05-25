@@ -1,0 +1,39 @@
+body{
+	margin:0;
+	background-color:#262626;
+	color:white;
+	font-family:-webkit-pictograph;
+}
+/*#418541*/
+#searchbox h1{
+	font-size:100px;
+}
+#h1p{
+	color:#72bf72;
+}
+
+#searchbox{
+	width:80%;
+	margin:auto;
+	padding:80px 10px;
+	text-align:center;
+}
+
+#sh{
+	width:600px;
+	padding:8px 20px;
+	border:none;
+	font-size:20px;
+	height:100%;
+	outline:none;
+	border-radius:20px;
+}
+#sb{
+	width:70px;
+	padding:8px;
+	border:none;
+	height:100%;
+	border-radius:0;
+	background-color: #72bf72;
+	color:white;
+}
